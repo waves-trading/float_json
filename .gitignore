@@ -1,0 +1,13 @@
+*.png
+*.log
+*.txt
+*.csv
+*.env
+!example.env
+venv
+__pycache__
+*.pyc
+.idea
+build
+dist
+*.egg-info
